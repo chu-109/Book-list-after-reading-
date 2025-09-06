@@ -17,7 +17,4 @@ A simple program to record books I’ve read, including:
 
 ## 🚀 How to Use
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/reading-notes-app.git
-
  https://github.com/user-attachments/files/22189496/student.proflie.py
